@@ -1,5 +1,6 @@
 .responsive {
   width: auto;
   height: auto;
-  position: relative;
+  position: relative
+  ;
 }
